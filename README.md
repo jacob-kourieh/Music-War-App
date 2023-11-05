@@ -2,6 +2,10 @@
 
 Music War App is a full-stack web application that allows users to engage in head-to-head matchups between music artists. With an interactive voting system, users can support their favorite artists, track artist statistics, and manage personalized dashboards. The app also offers a music discovery feature where users can explore new songs based on genre, listen through an integrated player, and curate a list of favorite tracks.
 
+## Live Demo
+
+Experience the Music War App live: [Music War App](https://artists-war-app.onrender.com/)
+
 ## Author
 
 [Jacob Kourieh](http://www.jacob-kourieh.com)
