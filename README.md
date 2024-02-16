@@ -10,7 +10,7 @@ Experience the Music War App live: [Music War App](https://artists-war-app.onren
 
 [Jacob Kourieh](http://www.jacob-kourieh.com)
 
-## Features
+## Features 
 
 - **Artist Matchups**: Engage in matchups between two randomly selected artists and vote for your favorites.
 - **Artist Statistics**: Keep tabs on win/loss records, games played, and other vital statistics for each artist.
